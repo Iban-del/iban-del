@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant en BUT Informatique · Développeur d'applications en alternance</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Nokaji?theme=sketch-2" alt="Nokaji Visitor Counter"/>
+  <img src="https://count.getloli.com/get/@Iban-del?theme=sketch-2" alt="Iban Visitor Counter"/>
 </p>
 
 ---
