@@ -49,6 +49,7 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 <!-- [Win32 API](https://img.shields.io/badge/Win32_API-black?style=for-the-badge&logo=windows) -->
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
 
 ---
 
