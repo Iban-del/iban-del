@@ -9,7 +9,7 @@
 
 ## À propos de moi
 
-Actuellement âgé de **18 ans**, je suis développeur d'applications en alternance chez **Network Informatique**
+Actuellement âgé de **18 ans**, je suis développeur d'applications chez **Network Informatique**
 et étudiant à l'**IUT de Laval** en **BUT Informatique**.
 
 Passionné par le développement bas niveau, les systèmes et les nouvelles technologies,
