@@ -36,20 +36,31 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![ExtJS](https://img.shields.io/badge/ExtJS-black?style=for-the-badge&logo=sencha)
+![Laminas](https://img.shields.io/badge/Laminas-black?style=for-the-badge&logo=laminas)
 ![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge&logo=openjdk)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![Laminas](https://img.shields.io/badge/Laminas-black?style=for-the-badge&logo=laminas)
+
+**Bases de données**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 
 **Outils & Environnements**
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
-<!-- [Win32 API](https://img.shields.io/badge/Win32_API-black?style=for-the-badge&logo=windows) -->
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+![RustRover](https://img.shields.io/badge/RustRover-black?style=for-the-badge&logo=jetbrains)
+![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipseide)
+![IDA](https://img.shields.io/badge/IDA-black?style=for-the-badge&logo=hexadecimal)
+![Win32 API](https://img.shields.io/badge/Win32_API-black?style=for-the-badge&logo=windows)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
