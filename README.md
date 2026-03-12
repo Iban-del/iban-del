@@ -56,8 +56,8 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
 ![RustRover](https://img.shields.io/badge/RustRover-black?style=for-the-badge&logo=jetbrains)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipseide)
-![IDA](https://img.shields.io/badge/IDA-black?style=for-the-badge&logo=hexadecimal)
-![Win32 API](https://img.shields.io/badge/Win32_API-black?style=for-the-badge&logo=windows)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
+<!-- ![Win32 API](https://img.shields.io/badge/Win32_API-black?style=for-the-badge&logo=windows) -->
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
