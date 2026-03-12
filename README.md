@@ -40,13 +40,15 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 ![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge&logo=openjdk)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Laminas](https://img.shields.io/badge/Laminas-black?style=for-the-badge&logo=laminas)
 
 **Outils & Environnements**
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
-![Win32 API](https://img.shields.io/badge/Win32_API-black?style=for-the-badge&logo=windows)
+<!-- [Win32 API](https://img.shields.io/badge/Win32_API-black?style=for-the-badge&logo=windows) -->
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)
 
 ---
 
