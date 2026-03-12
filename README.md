@@ -89,7 +89,7 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 
 ## Expérience
 
-**Network Informatique — Alternance Développeur d'applications**
+**Network Informatique — Développeur d'applications**
 - Développement d'un système de refroidissement autonome
 - Interface de gestion de traductions
 - Environnement professionnel avec ExtJS et Redis
@@ -108,7 +108,7 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 - Systèmes bas niveau & Rust
 - Machine Learning & IA
 - Univers Cyberpunk
-- Tout construire from scratch
+- Conception d'architecture
 
 ---
 
