@@ -1,4 +1,4 @@
-# kintergo
+# Iban-del
 
 > Étudiant en BUT Informatique | Développeur d'applications
 
@@ -13,7 +13,7 @@
 
 ---
 
-## skills
+## Skills
 
 **Langages & Frameworks**
 
@@ -33,7 +33,7 @@
 
 ---
 
-## projects
+## Projects
 
 | Projet | Description |
 |-------|-------------|
@@ -46,7 +46,7 @@
 
 ---
 
-## experience
+## Experience
 
 **Network Informatique**  
 > Contrat développeur d'application
@@ -57,14 +57,14 @@
 
 ---
 
-## studies
+## Studies
 
 -  **BUT Informatique — IUT de Laval**
 -  **Bac Pro Systèmes Numériques (2022-2025)**
 
 ---
 
-## activities_passions
+## Activities_passions
 
 - Apprendre en continu  
 - Développer tout et n'importe quoi  
@@ -73,12 +73,13 @@
 
 ---
 
-## contact
+## Contact
 
 -  GitHub : https://github.com/Iban-del  
 -  LinkedIn : iban-deletoille-elizalde  
 -  Mail : deletoilleelizaldeiban@gmail.com  
 -  Discord : @Bouboune
+-  Portfolio : https://iban-del.github.io/PortFolio/
 
 ---
 
