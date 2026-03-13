@@ -68,7 +68,7 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Voxel](https://github.com/Iban-del/Voxel) | Moteur de voxels from scratch, gestion native des fenêtres OS (Win32 / Cocoa), sans abstractions haut niveau | Rust, Win32, Cocoa |
+| [Voxel](https://github.com/Iban-del/Voxel) | Moteur de voxels from scratch, gestion native des fenêtres OS (Win32 / Cocoa), sans abstractions haut niveau | C, C++ |
 
 ---
 
