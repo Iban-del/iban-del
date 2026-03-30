@@ -64,11 +64,6 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 
 ---
 
-## Projets en cours
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [Voxel](https://github.com/Iban-del/Voxel) | Moteur de voxels from scratch, gestion native des fenêtres OS (Win32 / Cocoa), sans abstractions haut niveau | C, C++ |
 
 ---
 
