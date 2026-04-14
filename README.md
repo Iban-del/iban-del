@@ -72,8 +72,6 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [PortFolio](https://github.com/Iban-del/PortFolio) | Site web personnel moderne et fluide | TypeScript |
-| [intranet](https://github.com/Iban-del/intranet) + [intranet-front](https://github.com/Iban-del/intranet-front) | Application intranet full-stack avec interface de gestion | PHP, TypeScript |
-| [JulesVerne](https://github.com/Iban-del/JulesVerne) | Projet web autour de l'univers de Jules Verne | PHP |
 | Labyrinthe | Génération et résolution automatique via l'algorithme A* | Python |
 | Gestion des enseignants | Gestion de plannings, cours et affectations | PHP, SQL, JS |
 | Cœur Applicatif | Socle modulaire pour accélérer la création de projets | JS, TS |
