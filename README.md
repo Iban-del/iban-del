@@ -12,9 +12,9 @@
 Actuellement âgé de **18 ans**, je suis développeur d'applications chez **Network Informatique**
 et étudiant à l'**IUT de Laval** en **BUT Informatique**.
 
-Passionné par le développement bas niveau, les systèmes et les nouvelles technologies,
+Passionné par le développement et les nouvelles technologies,
 je suis en apprentissage constant. Curieux et motivé, je découvre et maîtrise continuellement
-de nouveaux outils, langages et environnements — avec une attirance particulière pour **Rust**,
+de nouveaux outils, langages et environnements avec une attirance particulière pour , les Maths,
 le **Machine Learning** et l'univers **Cyberpunk**.
 
 ---
@@ -100,7 +100,7 @@ le **Machine Learning** et l'univers **Cyberpunk**.
 
 ## Passions
 
-- Systèmes bas niveau & Rust
+- MAths
 - Machine Learning & IA
 - Univers Cyberpunk
 - Conception d'architecture
